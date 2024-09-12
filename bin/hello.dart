@@ -1,6 +1,6 @@
 void main ()
 {
-  print('Md Nuruzzaman Razon');
+  print('Md Nuruzzaman');
 }
 
 
